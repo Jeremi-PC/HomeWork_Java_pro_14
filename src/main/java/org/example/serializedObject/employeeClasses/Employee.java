@@ -1,4 +1,4 @@
-package org.example.serializedObject.emploteeClasses;
+package org.example.serializedObject.employeeClasses;
 
 import java.io.*;
 import java.time.LocalDate;

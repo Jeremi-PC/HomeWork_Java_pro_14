@@ -1,6 +1,6 @@
 package org.example.serializedObject;
 
-import org.example.serializedObject.emploteeClasses.Employee;
+import org.example.serializedObject.employeeClasses.Employee;
 
 import java.io.IOException;
 
