@@ -22,8 +22,6 @@ public class Employee implements Serializable {
         this.salary = 20_000.0;
     }
 
-
-
     public void writeEmployeeToFile (String filename) throws IOException {
 
 
