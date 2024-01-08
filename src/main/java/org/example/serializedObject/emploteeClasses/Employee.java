@@ -1,8 +1,7 @@
-package org.example.employee.emploteeClasses;
+package org.example.serializedObject.emploteeClasses;
 
 import java.io.*;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
 //3 Создайте класс Сотрудник с полями имя, фамилия, дата рождения, должность,
 // заработная плата. Сериализуйте объект и сохраните в файл.
